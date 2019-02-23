@@ -1,0 +1,16 @@
+
+*{
+
+  max-width: 100%;
+
+}
+div{
+
+ // border:solid black 1px;
+}
+
+.subfooter{
+
+  position:relative;
+  top:25em;;
+}
